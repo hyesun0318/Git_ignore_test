@@ -26,7 +26,7 @@ public class Assume_unchanged_8 {
 	             노란 원기둥 모양의 표시(tracked) 또는 노란 원기둥 모양의 표시 >(dirty) 또는 * 표시(staged) 로 보여집니다.	
 	   9. Git Staging 의 Unstaged Changes(관리를 받지 않는 단계)에 가보면 
 	      Assume_unchanged_8.java 파일이 >(dirty) 모양으로 들어오게 되고 
-	             이제부터는 Staged Changes(관리를 받는 단계)에도 들어오게 되고 Commit 및 Push 대상이 되어집니다.          
+	             이제부터는 Staged Changes(관리를 받는 단계)에도 들어오게 되고 Commit 및 Push 대상이 되어집니다.    ....      
 	*/
 		System.out.println("==== Assume_unchanged_8.java 파일입니다. ===="); 
 
